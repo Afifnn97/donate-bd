@@ -6,8 +6,49 @@ font-family: 'Poppins', sans-serif;
 
 ========*/
 
-/* ============   Template Default Css   ============ */
 body {
   font-family: "Inter", sans-serif;
 }
 
+/* ============   header section start  ============ */
+.header-section {
+  background-image: url(../img/header-img.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  width: auto;
+}
+.header-content {
+  text-align: center;
+}
+.header-content h1 {
+  color: #ffff;
+  font-size: 65px;
+  font-weight: 700;
+  padding-top: 180px;
+  text-transform: capitalize;
+}
+.header-content p {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  color: #fff;
+  margin-bottom: 50px;
+}
+.site-btn {
+  font-size: 20px;
+  color: #fff;
+  text-transform: capitalize;
+  text-decoration: none;
+  padding: 15px 20px;
+  background-color: #ff5959;
+  border-radius: 10px;
+}
+.site-btn:hover {
+  background-color: #fff;
+  color: #ff5959;
+  transition: 0.3s;
+}
+
+/* ============   header section end  ============ */
