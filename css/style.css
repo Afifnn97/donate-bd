@@ -19,17 +19,17 @@ body {
   height: 600px;
   width: auto;
 }
-.header-content {
+.site-content {
   text-align: center;
 }
-.header-content h1 {
+.site-content h1 {
   color: #ffff;
   font-size: 65px;
   font-weight: 700;
   padding-top: 180px;
   text-transform: capitalize;
 }
-.header-content p {
+.site-content p {
   font-family: "Poppins", sans-serif;
   font-size: 18px;
   line-height: 28px;
