@@ -116,3 +116,40 @@ p {
 }
 
 /*======= donate section end=========*/
+
+/*======= our donate plan start=========*/
+
+.donate-plan {
+  -webkit-box-shadow: 1px 3px 23px 0px rgba(0, 0, 0, 0.41);
+  -moz-box-shadow: 1px 3px 23px 0px rgba(0, 0, 0, 0.41);
+  box-shadow: 1px 3px 23px 0px rgba(0, 0, 0, 0.41);
+}
+.our-plan {
+  padding: 40px 0;
+  width: 33%;
+  display: inline-block;
+}
+.our-plan:hover {
+  border: 1px solid #ff5959;
+  border-radius: 10px;
+}
+.our-plan img {
+  padding-left: 180px;
+}
+.our-plan-content {
+  text-align: left;
+  padding-left: 20px;
+}
+.our-plan-content h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  padding: 25px 0 16px 0;
+  text-align: center;
+}
+.our-plan-content p {
+  color: #707070;
+  text-align: center;
+}
+
+/*======= our donate plan end=========*/
