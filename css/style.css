@@ -158,6 +158,7 @@ p {
 
 .review {
   display: flex;
+  margin-bottom: 100px;
 }
 .review-content {
   margin: 0 30px;
@@ -187,6 +188,33 @@ p {
 }
 
 /*======= review end =========*/
+
+/*=======by need start =========*/
+.by-need {
+  -webkit-box-shadow: 1px 3px 23px 0px rgba(0, 0, 0, 0.41);
+  -moz-box-shadow: 1px 3px 23px 0px rgba(0, 0, 0, 0.41);
+  box-shadow: 1px 3px 23px 0px rgba(0, 0, 0, 0.41);
+}
+.img-single {
+  padding: 0 15px;
+  display: flex;
+  cursor: pointer;
+}
+
+.img-single img {
+  background-repeat: no-repeat;
+  height: 125px;
+  width: auto;
+  margin: 20px 10px 20px 10px;
+}
+
+.section-content h3 {
+  text-align: center;
+  font-size: 17px;
+  text-transform: capitalize;
+}
+
+/*======= by need end=========*/
 
 /*======= email start =========*/
 .email {
