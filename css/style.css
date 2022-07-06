@@ -239,3 +239,19 @@ input {
 }
 
 /*======= email end =========*/
+
+.footer-section {
+  text-align: center;
+  background: #0b0d17;
+}
+.footer-section span {
+  font-family: "Lobster", cursive;
+  text-transform: capitalize;
+  font-size: 44px;
+  color: #ff5959;
+}
+.footer-section p {
+  margin-top: 30px;
+  color: #d9dbe1;
+  text-transform: capitalize;
+}
